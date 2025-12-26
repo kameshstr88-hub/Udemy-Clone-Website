@@ -14,3 +14,5 @@
 
 *Note:
   - This is a frontend-only project with no backend or payment features.
+
+Thank you for visiting my Udemy-Clone Website
